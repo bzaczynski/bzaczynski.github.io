@@ -1,3 +1,3 @@
 # Paryła & Żurek | Kancelarie Adwokackie
 
-Statyczna strona internetowa hostowana za pośrednictwem GitHub Pages.
+Statyczna [strona internetowa](https://bzaczynski.github.io/) hostowana za pośrednictwem GitHub Pages.
