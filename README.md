@@ -1,3 +1,3 @@
-# Paryła & Żurek | Kancelarie Adwokackie
+# Bartosz Zaczyński
 
-Statyczna [strona internetowa](https://bzaczynski.github.io/) hostowana za pośrednictwem GitHub Pages.
+https://bzaczynski.github.io/
